@@ -1,3 +1,0 @@
-This is 24MCC20035_TusharNegi.txt file
-This is the updated line in Branch 1(24MCC20035).
-This is the main file
